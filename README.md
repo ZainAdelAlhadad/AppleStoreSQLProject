@@ -11,9 +11,9 @@ Project "AppleStoreSQLProject" :
 - CHECK IF THERE IS CORRELATION BETWEEN THE LENGTH OF THE APP DESCRIPTION AND USER RATING.
 
 Insights
-** "Games" And "Entertainment" Have High Competition, But also high Demand From Users.
-** A new apps should aim for an average rating above 3.5.
-** Paid Apps Have Better Ratings.
-** App SUPPORTING between 10 and 30 LANGUAGEs have better  ratings.
-** Finance and book Apps Have Low Ratings.
-** The Length of the description has a positive correlation with the user ratings.
+- "Games" And "Entertainment" Have High Competition, But also high Demand From Users.
+- A new apps should aim for an average rating above 3.5.
+- Paid Apps Have Better Ratings.
+- App SUPPORTING between 10 and 30 LANGUAGEs have better  ratings.
+- Finance and book Apps Have Low Ratings.
+- The Length of the description has a positive correlation with the user ratings.
